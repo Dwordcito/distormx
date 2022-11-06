@@ -1,0 +1,14 @@
+#Git ignore files and folders.
+
+#clangd
+.clangd
+
+#CMake
+build/
+
+#cache
+*.cache
+
+#compile commands
+compile_commands.json
+

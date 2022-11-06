@@ -13,7 +13,7 @@ This library is licensed under the BSD license. See the file COPYING.
 */
 
 #include <windows.h>
-#include <TlHelp32.h>
+#include <tlhelp32.h>
 #include "OS.h"
 
 

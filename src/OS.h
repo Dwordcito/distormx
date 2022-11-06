@@ -21,6 +21,8 @@ This library is licensed under the BSD license. See the file COPYING.
 #define TRUE 1
 #endif
 
+#define MAXINT32 0x7FFFFFFF
+#define MININT32 0x80000000
 
 /* // Typedefs that are OS dependent // */
 
